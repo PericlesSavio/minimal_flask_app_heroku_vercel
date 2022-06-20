@@ -8,6 +8,7 @@ requirements.txt
     gunicorn
 
 Procfile
+
     web: gunicorn app:app
 
 ## Vercel
